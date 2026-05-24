@@ -1,5 +1,7 @@
 # omarchy-demo-scene-theme
 
+![Preview](assets/preview.png)
+
 Ein Omarchy-Theme im Stil der Demoscene- und Synthwave-Ära: tiefes Indigo-Schwarz als Hintergrund, weiches Lavendel als Vordergrund, dazu Neon-Akzente in Magenta, Cyan, Lime und Sonnen-Gelb.
 
 ## Screenshots
